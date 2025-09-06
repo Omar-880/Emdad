@@ -68,7 +68,7 @@ export default function EthicsGovernance() {
       <Header />
       {/* Hero Section */}
 <section 
-  className="relative h-96 flex items-center justify-center bg-cover bg-center bg-no-repeat"
+  className="relative h-64 md:h-80 lg:h-96 flex items-center justify-center hero-bg"
   style={{
     backgroundImage: `url('/img/ethics.jpg')`
   }}

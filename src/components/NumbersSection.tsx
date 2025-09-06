@@ -29,7 +29,7 @@ export function NumbersSection() {
                   <div className="text-3xl font-bold text-emdad-gold mb-2">
                     218,000
                   </div>
-                  <div className="text-gray-600">m³ Transported</div>
+                  className="w-full h-64 md:h-80 lg:h-96 object-cover rounded-2xl shadow-xl responsive-image-cover"
                 </div>
               </div>
             </div>

@@ -21,7 +21,7 @@ export function QualityStandards() {
             <img 
               src="/img/2.jpg" 
               alt="Quality Work and Excellence"
-              className="rounded-lg shadow-lg w-full h-96 object-cover"
+              className="content-image w-full h-64 md:h-80 lg:h-96 object-cover"
             />
           </div>
 

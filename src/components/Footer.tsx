@@ -32,7 +32,7 @@ export function Footer() {
                   <img 
                     src="/img/EMDAD just.png" 
                     alt="Emdad Mubasher Direct Logistics" 
-                    className="h-16 w-auto object-contain"
+                    className="h-12 md:h-16 w-auto object-contain logo-image"
                   />
                   <span className="text-white font-bold text-lg md:text-xl ml-3">{language === 'ar' ? 'إمداد مباشر' : 'Emdad Mubasher'}</span>
 

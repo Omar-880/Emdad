@@ -54,7 +54,7 @@ export default function FAQ() {
       <Header />
       
       {/* Hero Section */}
-      <section className="relative h-96 flex items-center justify-center bg-emdad-navy">
+      <section className="relative h-64 md:h-80 lg:h-96 flex items-center justify-center bg-emdad-navy">
         <div className="relative z-10 text-center max-w-4xl mx-auto px-4">
           <HelpCircle className="w-16 h-16 text-emdad-gold mx-auto mb-6" />
           <h1 className="text-4xl md:text-5xl font-bold text-emdad-gold mb-6 animate-fade-in-up">

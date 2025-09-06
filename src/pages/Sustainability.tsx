@@ -141,7 +141,7 @@ Our strategic plan incorporates a sustainability perspective with the following 
       
       {/* Hero Section */}
       <section 
-        className="relative h-96 flex items-center justify-center bg-cover bg-center bg-no-repeat"
+        className="relative h-64 md:h-80 lg:h-96 flex items-center justify-center hero-bg"
         style={{
           backgroundImage: `url('https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80')`
         }}

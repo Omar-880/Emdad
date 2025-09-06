@@ -6,7 +6,7 @@ export function QualityHero() {
 
   return (
     <section 
-      className="relative min-h-screen flex items-center justify-center bg-cover bg-center overflow-hidden"
+      className="relative min-h-screen flex items-center justify-center hero-bg overflow-hidden"
       style={{
         backgroundImage: `url('/img/bg-masthead.jpg')`
       }}

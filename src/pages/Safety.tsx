@@ -82,7 +82,7 @@ At Emdad Mubasher, safety is not optional—it is the foundation of our reliabil
       
       {/* Hero Section */}
       <section 
-        className="relative h-96 flex items-center justify-center bg-cover bg-center bg-no-repeat"
+        className="relative h-64 md:h-80 lg:h-96 flex items-center justify-center hero-bg"
         style={{ backgroundImage: `url('/img/safty.webp')` }}
       >
         <div className="absolute inset-0 bg-emdad-navy opacity-80"></div>
@@ -182,7 +182,7 @@ At Emdad Mubasher, safety is not optional—it is the foundation of our reliabil
                 <img 
                   src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
                   alt="Safety Training"
-                  className="rounded-lg shadow-lg w-full"
+                  className="content-image w-full h-64 md:h-80 lg:h-96 object-cover"
                 />
               </div>
             </div>

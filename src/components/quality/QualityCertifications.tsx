@@ -23,7 +23,7 @@ export function QualityCertifications() {
             <img
               src="/img/ISO9001.jpg"
               alt="ISO 9001"
-              className="w-full h-64 object-contain bg-gray-100 p-4"
+              className="certificate-image bg-gray-100 p-4"
             />
             <div className="p-6 text-center">
               <div className="flex justify-center mb-4">
@@ -40,7 +40,7 @@ export function QualityCertifications() {
             <img
               src="/img/ISO29001.jpg"
               alt="ISO 29001"
-              className="w-full h-64 object-contain bg-gray-100 p-4"
+              className="certificate-image bg-gray-100 p-4"
             />
             <div className="p-6 text-center">
               <div className="flex justify-center mb-4">

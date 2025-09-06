@@ -102,7 +102,7 @@ export function Header() {
             <img
               src="/img/EMDAD just.png"
               alt="EMDAD Direct Logistics"
-              className="h-10 md:h-12 lg:h-16 w-auto object-contain transition-transform duration-300 hover:scale-105 hover:shadow-lg"
+              className="h-10 md:h-12 lg:h-16 w-auto object-contain transition-transform duration-300 hover:scale-105 hover:shadow-lg logo-image"
             />
             <span
               className="text-lg md:text-xl lg:text-2xl font-semibold text-emdad-gold italic tracking-wide hidden sm:inline"

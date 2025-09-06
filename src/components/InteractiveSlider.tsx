@@ -75,7 +75,7 @@ export function InteractiveSlider() {
           {/* Main Content with Dynamic Background */}
           <div className="relative h-96 md:h-[500px] rounded-2xl overflow-hidden">
             <div
-              className="absolute inset-0 bg-cover bg-center transition-all duration-1000 ease-in-out"
+              className="absolute inset-0 hero-bg transition-all duration-1000 ease-in-out"
               style={{
                 backgroundImage: `url('${sliderData[activeIndex].image}')`,
               }}

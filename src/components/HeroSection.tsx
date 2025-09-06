@@ -13,7 +13,7 @@ export function HeroSection() {
 
   return (
     <section
-      className="relative min-h-screen w-full flex items-center justify-center bg-cover bg-center bg-no-repeat"
+      className="relative min-h-screen w-full flex items-center justify-center hero-bg"
       style={{
         backgroundImage: `url('/img/12.png')`,
       }}

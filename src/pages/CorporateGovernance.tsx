@@ -36,7 +36,7 @@ export default function CorporateGovernance() {
 
       {/* Hero Section */}
       <section
-        className="relative h-screen flex items-center justify-center bg-cover bg-center bg-no-repeat"
+        className="relative min-h-screen flex items-center justify-center hero-bg"
         style={{
           backgroundImage: `url('/img/2.jpg')`,
         }}

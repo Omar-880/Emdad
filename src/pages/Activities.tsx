@@ -55,7 +55,7 @@ At Emdad Mubasher, we understand that transporting petroleum products is a criti
 
       {/* Hero Section */}
       <section 
-        className="relative h-96 flex items-center justify-center bg-cover bg-center bg-no-repeat"
+        className="relative h-64 md:h-80 lg:h-96 flex items-center justify-center hero-bg"
         style={{ backgroundImage: `url('/img/activities.jpeg')` }}
       >
         <div className="absolute inset-0 bg-emdad-navy opacity-80"></div>
